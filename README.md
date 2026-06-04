@@ -1,44 +1,41 @@
-# 👋 Olá! Eu sou o Luciano Silva
+# 👋 Olá! Eu sou o LucianoDev
 
-[![GitHub followers](https://img.shields.io/github/followers/lucianopsilvadev?label=Follow&style=social)](https://github.com/lucianopsilvadev)
+[![GitHub followers](https://img.shields.io/github/followers/lucianopsilvadev?label=Seguidores&style=social)](https://github.com/lucianopsilvadev)
 
-Sou um desenvolvedor front-end apaixonado por criar interfaces web modernas, responsivas e funcionais. Foco em transformar ideias em código limpo e experiências digitais interativas.
-
----
-
-## 🚀 Tecnologias que eu domino
-
-<div style="display: inline_block">
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
+Sou um desenvolvedor front-end apaixonado por criar interfaces web modernas, responsivas e funcionais. Estou em constante evolução, mergulhando fundo no JavaScript moderno.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🚀 Tecnologias que domino
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianopsilvadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianopsilvadev&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/>
 </div>
 
 ---
 
-## 🌱 No que estou trabalhando atualmente
+## 📚 O que estou estudando agora
 
-- Aprofundando meus conhecimentos em **React** e **TypeScript**
-- Desenvolvendo projetos práticos para consolidar o aprendizado
-- Criando componentes reutilizáveis com foco em acessibilidade
+Atualmente estou **aprofundando meus conhecimentos em JavaScript**:
 
----
+| Conceito | O que significa | O que estou praticando |
+|----------|----------------|------------------------|
+| **ES6+** | JavaScript moderno | Arrow functions, template literals, destructuring, spread/rest, modules |
+| **Promises** | Operações assíncronas | fetch API, Promise.all, encadeamento de promises |
+| **Async/Await** | Código assíncrono limpo | try/catch, fluxos assíncronos, tratamento de erros |
 
-## 📫 Como me encontrar
+### 📝 Exemplo do que estou codificando
 
-- 💼 [LinkedIn]https://www.linkedin.com/in/luciano-dev-css/) 
-- 📧 E-mail:luciano.psilva.dev@gmail.com *
-- 🌐 Portfólio: em breve...
-
----
-
-> ⚡ "Código é poesia para máquinas e solução para pessoas."
+```javascript
+// Buscando dados de uma API com async/await
+async function buscarUsuarios() {
+  try {
+    const resposta = await fetch('https://api.exemplo.com/usuarios');
+    const dados = await resposta.json();
+    console.log('✅ Usuários carregados:', dados);
+  } catch (erro) {
+    console.error('❌ Erro na requisição:', erro);
+  }
+}
