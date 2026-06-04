@@ -35,8 +35,8 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces web modernas, res
 
 ## 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucianopsilvadev) *(substitua pelo seu link real)*
-- 📧 E-mail: luciano@exemplo.com *(substitua pelo seu e-mail)*
+- 💼 [LinkedIn]https://www.linkedin.com/in/luciano-dev-css/) 
+- 📧 E-mail:luciano.psilva.dev@gmail.com *
 - 🌐 Portfólio: em breve...
 
 ---
